@@ -1,7 +1,9 @@
 .post-header .post-title{
 	font-size: 1.7em;
 }
-
+.main-slider .owl-prev,.main-slider .owl-prev{
+	display: none;
+}
 
 #main-slider .caption{
 	min-height: 50vh;
