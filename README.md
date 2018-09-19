@@ -2,7 +2,7 @@
 
 Public site for the Venezuelan IGF.
 
-# Copyright:
+## Copyright:
 
 Content on the site is Creative Commons: Attributive
 
