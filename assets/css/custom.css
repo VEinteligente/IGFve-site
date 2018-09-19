@@ -76,16 +76,16 @@ header.header.shrink img.logo{
     margin-right: 10px;
     color: white;
     font-size: 2.5em;
-    font-weight: bold; 
+    font-weight: bold;
 }
 .countdown  div.time-left div span{
     font-weight: normal;
 }
-*/	
+*/
 
 .timeline .post-wrap + .post-wrap{
 	margin-top: 15px;
-	
+
 }
 .timeline .session-refrigerio .media-body {
 		background: #f9f9f9;
@@ -124,7 +124,7 @@ header.header.shrink img.logo{
 
 body.sub-page header.header.fixed{
 	padding-bottom: 10px;
-	
+
 }
 
 .page-section.with-sidebar {
