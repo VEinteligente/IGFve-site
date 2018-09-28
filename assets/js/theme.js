@@ -304,7 +304,7 @@ var theme = function () {
         initGoogleMap: function() {
             var map;
             var marker;
-            // var image = 'assets/img/icon-google-map.png'; // marker icon
+            var image = '/assets/img/icon-google-map.png'; // marker icon
             function initialize() {
                 var mapOptions = {
                     scrollwheel: false,
@@ -313,12 +313,12 @@ var theme = function () {
                 };
                 map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
-                // marker = new google.maps.Marker({
-                //     position: new google.maps.LatLng(10.497400, -66.851358), // marker coordinates
-                //     map: map,
-                //     icon: image,
-                //     title: 'Hello World!'
-                // });
+                marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(10.497400, -66.851358), // marker coordinates
+                    map: map,
+                    // icon: image,
+                    // title: 'Foro XXI, Centro Letonia'
+                });
             }
             google.maps.event.addDomListener(window, 'load', initialize);
         }
