@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="411px" height="118px" viewBox="0 0 411 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>igfve_logo-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50.0001052%" cy="50.0000003%" fx="50.0001052%" fy="50.0000003%" r="56.4023602%" gradientTransform="translate(0.500001,0.500000),scale(1.000000,0.886488),rotate(90.000000),translate(-0.500001,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#CDDDE6" offset="0%"></stop>
+            <stop stop-color="#A6DAD5" offset="72.4761111%"></stop>
+            <stop stop-color="#9CD9D1" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="igfve_logo-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="igfve-logo-dark" transform="translate(6.000000, 3.000000)">
+            <g>
+                <g id="Gliph">
+                    <g>
+                        <path d="M45.662,1.095 L4.98,24.879 C2.507,26.327 0.467,29.858 0.451,32.725 L0.193,79.85 C0.178,82.717 2.193,86.235 4.672,87.667 L45.028,110.966 C47.508,112.397 51.562,112.385 54.038,110.936 L94.719,87.151 C97.195,85.706 99.234,82.172 99.249,79.306 L99.507,32.183 C99.523,29.313 97.507,25.795 95.028,24.364 L54.673,1.065 C53.467,0.369 51.89,0.015 50.303,0 C48.491,0.015 46.885,0.38 45.662,1.095 Z" id="fill" fill="url(#radialGradient-1)"></path>
+                        <g id="Group" transform="translate(11.000000, 34.000000)" fill-rule="nonzero">
+                            <polygon id="F" fill="#F94654" points="43.04 44 43.04 1.1 69.32 1.1 69.32 10.1 53.54 10.1 53.54 19.1 66.62 19.1 66.62 28.1 53.54 28.1 53.54 44"></polygon>
+                            <path d="M45.5742668,5.17567663 L40.5742668,13.0950565 C40.2269711,12.8564789 36.1830993,9.72664138 30,9.98449612 C20.8170465,9.72664138 17.0821711,15.5658691 17,21.9658915 C17.0821711,30.2784529 22.8355119,35.2035912 30,34.9457364 C34.7748676,35.2035912 38.5097429,32.041774 39,31.9503876 L39,28.9550388 L32,28.9550388 L32,19.9689922 L48,19.9689922 L48,44 L39,44 L39,42.9333333 C39.0607901,42.0744631 39.1220176,41.1624004 39,40.9364341 C38.9995627,41.1624004 34.7748676,44.9302326 27,44.9302326 C16.2862141,44.9302326 6,36.6020872 6,21.9658915 C6,9.72664138 15.612712,0 29,0 C40.1628845,0 45.3700781,4.96137569 45.5742668,5.17567663 Z" id="Fill-60" fill="#54AFF0"></path>
+                            <g id="i" transform="translate(0.000000, 1.000000)" fill="#FFF235">
+                                <polygon id="Fill-261" points="0 11 11 11 11 0 0 0"></polygon>
+                                <polygon id="Fill-262" points="0 43 11 43 11 13 0 13"></polygon>
+                            </g>
+                        </g>
+                        <g id="VE" transform="translate(69.000000, 62.000000)" fill="#4D4D4D" font-family="Museo700-Regular, Museo" font-size="22" font-weight="bold" letter-spacing="-1.20000005">
+                            <text>
+                                <tspan x="0.5846668" y="21">V</tspan>
+                                <tspan x="14.4326668" y="21">E</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Foro-de-Gobernanza-d" transform="translate(126.000000, 5.000000)" fill="#4D4D4D" font-size="29.9997">
+                    <text id="F" font-family="MuseoSans-700, Museo Sans" font-weight="500">
+                        <tspan x="0" y="28">F</tspan>
+                    </text>
+                    <text id="oro" font-family="Museo700-Regular, Museo" font-weight="bold">
+                        <tspan x="18.329817" y="28">oro</tspan>
+                    </text>
+                    <text id="de" font-family="Museo100-Regular, Museo" font-weight="300">
+                        <tspan x="76.859231" y="28.8399916">de</tspan>
+                    </text>
+                    <text id="Gobernanza" font-family="Museo700-Regular, Museo" font-weight="bold">
+                        <tspan x="2.159978" y="59">Gobernanza</tspan>
+                    </text>
+                    <text id="de" font-family="Museo100-Regular, Museo" font-weight="300">
+                        <tspan x="189.688103" y="59.8399916">de</tspan>
+                    </text>
+                    <text id="Internet." font-family="Museo700-Regular, Museo" font-weight="bold">
+                        <tspan x="2.159978" y="90">Internet.</tspan>
+                    </text>
+                    <text id="Venezuela" font-family="Museo300-Regular, Museo" font-weight="normal">
+                        <tspan x="129.568704" y="90.5699943">Venezuela</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
