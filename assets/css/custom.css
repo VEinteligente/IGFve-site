@@ -132,3 +132,12 @@ body.sub-page header.header.fixed{
 .page-section.with-sidebar {
 	padding-top: 180px;
 }
+
+
+.partners-carousel .owl-carousel div a{
+	height: 100px;
+	padding-top: 6%;
+}
+.partners-carousel .owl-carousel div a img {
+	max-height: 100%;
+}

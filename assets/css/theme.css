@@ -2562,7 +2562,7 @@ div.pp_overlay {
     padding: 0;
 }
 @media (max-width:480px){
-    .popup-register{        
+    .popup-register{
         padding: 15px;
     }
     .popup-register form iframe{
